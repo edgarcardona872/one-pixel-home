@@ -28,6 +28,12 @@ A browser game where 1–4 players design, launch and simulate an Earth-observat
 - Keep the engine free of UI concerns; UI reads `evaluateDesign()` / `simulateMission()` only.  
 - Small PRs, one concern each. Branch names: `feat/<area>-<thing>`. Conventional commits.
 
+## GitHub
+
+- Use the `gh` CLI for all GitHub operations (`gh pr create`, `gh pr view`, `gh pr merge`, `gh pr close`). It is installed and authenticated on this machine.  
+- There is no GitHub MCP server here — do not search for `mcp__github__*` tools.  
+- Repo: `edgarcardona872/one-pixel-home`. Default branch: `main`.
+
 ## Commands
 
 - `pnpm dev` — local dev server  
