@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.vercel/
+.env
+.env.*
+*.local
+.DS_Store
+.claude/worktrees/
+.claude/settings.local.json
